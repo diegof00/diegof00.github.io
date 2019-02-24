@@ -12,13 +12,14 @@ Some awesome images.
 
 <figure>
 	<a href="/images/StockSnap_W2W3JCCZM6.jpg"><img src="/images/StockSnap_W2W3JCCZM6.jpg"></a>
-	<figcaption>a place</figcaption>
+	<figcaption><a href="https://stocksnap.io/author/jeffhollett">https://stocksnap.io/author/jeffhollett</a></figcaption>
 </figure>
 
 <figure class="half">
 	<a href="/images/StockSnap_WMH53WWA3J.jpg"><img src="/images/StockSnap_WMH53WWA3J.jpg" alt=""></a>
 	<a href="/images/StockSnap_F0EHUNCMP3.jpg"><img src="/images/StockSnap_F0EHUNCMP3.jpg" alt=""></a>
-	<figcaption>more awesome places.</figcaption>
+	<figcaption><a href="https://stocksnap.io/author/mustangjoe">https://stocksnap.io/author/mustangjoe</a></figcaption>
+	<figcaption><https://stocksnap.io/author/mustangjoe></figcaption>
 </figure>
 
-images from <https://stocksnap.io/>
+Images from <https://stocksnap.io/>
