@@ -1,0 +1,24 @@
+---
+layout: post
+title: "some pictures "
+description: "images"
+tags: [places, images]
+categories: [images]
+---
+
+Some awesome images. 
+
+### One Up
+
+<figure>
+	<a href="/images/StockSnap_W2W3JCCZM6.jpg"><img src="/images/StockSnap_W2W3JCCZM6.jpg"></a>
+	<figcaption>a place</figcaption>
+</figure>
+
+<figure class="half">
+	<a href="/images/StockSnap_WMH53WWA3J.jpg"><img src="/images/StockSnap_WMH53WWA3J.jpg" alt=""></a>
+	<a href="/images/StockSnap_F0EHUNCMP3.jpg"><img src="/images/StockSnap_F0EHUNCMP3.jpg" alt=""></a>
+	<figcaption>more awesome places.</figcaption>
+</figure>
+
+images from <https://stocksnap.io/>
