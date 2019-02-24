@@ -19,7 +19,6 @@ Some awesome images.
 	<a href="/images/StockSnap_WMH53WWA3J.jpg"><img src="/images/StockSnap_WMH53WWA3J.jpg" alt=""></a>
 	<a href="/images/StockSnap_F0EHUNCMP3.jpg"><img src="/images/StockSnap_F0EHUNCMP3.jpg" alt=""></a>
 	<figcaption><a href="https://stocksnap.io/author/mustangjoe">https://stocksnap.io/author/mustangjoe</a></figcaption>
-	<figcaption><https://stocksnap.io/author/mustangjoe></figcaption>
 </figure>
 
 Images from <https://stocksnap.io/>
