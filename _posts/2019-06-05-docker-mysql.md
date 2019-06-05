@@ -40,3 +40,8 @@ categories: [Docker, mysql, examples]
 	cat my_backup.sql | docker exec -i mysql_1 /usr/bin/mysql -u root --password=root DATABASE
     
 {% endhighlight %}
+
+
+
+> https://gist.github.com/spalladino/6d981f7b33f6e0afe6bb
+
