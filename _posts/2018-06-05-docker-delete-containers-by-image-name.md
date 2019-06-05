@@ -1,3 +1,12 @@
+
+---
+layout: post
+title: "Delete docker containers by image name"
+description: "docker delete containers by image name"
+tags: [docker]
+categories: [docker]
+---
+
 ##Delete containers by image name
 
 {% highlight java %}
