@@ -2,8 +2,8 @@
 layout: post
 title: "Docker Mysql container"
 description: "docker mysql"
-tags: [example, Docker, mysql]
-categories: [Docker, mysql, examples]
+tags: [examples, docker]
+categories: [docker]
 ---
 
 ## Create and run a docker container with MYSQL 
@@ -24,7 +24,7 @@ categories: [Docker, mysql, examples]
 
 ## Create Backup
 
-{% endhighlight %}
+{% highlight java %}
 
 	docker exec mysql_1 /usr/bin/mysqldump -u root --password=root DATABASE > my_backup.sql
     
@@ -32,7 +32,7 @@ categories: [Docker, mysql, examples]
 
 ## Restore
 
-{% endhighlight %}
+{% highlight java %}
 
 	cat my_backup.sql | docker exec -i mysql_1 /usr/bin/mysql -u root --password=root DATABASE
     
